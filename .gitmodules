@@ -13,3 +13,8 @@
 	url = https://github.com/david-barnett/hueR
 	shallow = true
 	registered = true
+[submodule "corncob"]
+	path = corncob
+	url = https://github.com/david-barnett/corncob
+	shallow = true
+	registered = false

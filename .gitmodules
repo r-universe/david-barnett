@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/david-barnett/universe
-	shallow = true
 	branch = HEAD
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
-	shallow = true
-	registered = true
 [submodule "hueR"]
 	path = hueR
 	url = https://github.com/david-barnett/hueR
-	shallow = true
-	registered = true

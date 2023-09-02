@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/david-barnett/universe
 	branch = HEAD
-[submodule "microViz"]
-	path = microViz
-	url = https://github.com/david-barnett/microViz
 [submodule "hueR"]
 	path = hueR
 	url = https://github.com/david-barnett/hueR
+[submodule "microViz"]
+	path = microViz
+	url = https://github.com/david-barnett/microViz

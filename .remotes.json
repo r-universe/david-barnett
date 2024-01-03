@@ -1,0 +1,9 @@
+[
+  {
+    "package": "corncob",
+    "url": "https://github.com/statdivlab/corncob",
+    "via": ["microViz"],
+    "branch": "v0.4.1",
+    "from": "microViz"
+  }
+]

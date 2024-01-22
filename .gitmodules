@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/david-barnett/universe
 	branch = HEAD
-[submodule "corncob"]
-	path = corncob
-	url = https://github.com/statdivlab/corncob
-	branch = v0.4.1
-	registered = false
 [submodule "hueR"]
 	path = hueR
 	url = https://github.com/david-barnett/hueR

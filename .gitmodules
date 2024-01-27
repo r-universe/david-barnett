@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/david-barnett/universe
+	url = https://github.com/david-barnett/david-barnett.r-universe.dev
 	branch = HEAD
 [submodule "hueR"]
 	path = hueR
